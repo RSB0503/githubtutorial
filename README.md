@@ -2,9 +2,9 @@
 
 Code Contributer를 위한 글.
 
-이슈 타이틀
+프로젝트 저자
 -
-이슈 타이틀은 다음과 같다. tutorial-issue번호: 이슈 제목
+이 프로젝트의 저자는 fsoftwareengineer이다.
 
 커밋 메시지
 -
